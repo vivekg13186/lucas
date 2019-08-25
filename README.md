@@ -1,4 +1,4 @@
 # Welcome to Lucas
 
 Lucas is simple web crawler.
-To know more about this project [visit](http://www.google.com) 
+To know more about how to run the project [visit](lucas.readthedocs.io) 
