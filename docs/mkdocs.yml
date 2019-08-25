@@ -1,0 +1,6 @@
+site_name: Lucas
+
+nav:
+    - Home: index.md
+
+theme: readthedocs
